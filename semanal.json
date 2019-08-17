@@ -1,0 +1,25 @@
+{
+    "segunda": {
+        "almoco": [
+            "Lombo Assado ou Ovo Cozido",
+            "Hamburguer Vegano",
+            "Canjiquinha",
+            "Acelga com Almeirão, Cenoura Ralada, Berinjela Temperada",
+            "Laranja"
+        ],
+        "jantar": [
+            "Frango Xadrez ou Ovos Mexido",
+            "Feijão Branco com Milho",
+            "Repolho Búlgaro",
+            "Acelga com Rúcula, Tomate, Beterraba",
+            "Banana"
+        ]
+        ,
+        "lanche": [
+            "Pão Doce",
+            "Salsicha",
+            "Sopa de Macarrão",
+            "Banana"
+        ]
+    }
+}
