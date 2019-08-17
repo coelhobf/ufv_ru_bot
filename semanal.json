@@ -111,24 +111,24 @@
     },
     "5": {
         "almoco": [
-            "Lombo Assado ou Ovo Cozido",
-            "Hamburguer Vegano",
-            "Canjiquinha",
-            "Acelga com Almeirão, Cenoura Ralada, Berinjela Temperada",
-            "Laranja"
+            "Strogonoff de Frango ou Omelete",
+            "Strogonoff Vegano",
+            "Batata Palha",
+            "Acelga com Almeirão, Vinagrete, Repolho Refogado",
+            "Pudim de Chocolate com Calda"
         ],
         "jantar": [
-            "Frango Xadrez ou Ovos Mexido",
-            "Feijão Branco com Milho",
-            "Repolho Búlgaro",
-            "Acelga com Rúcula, Tomate, Beterraba",
-            "Banana"
+            "Bife Suino Acebolado ou Ovos Mexido",
+            "Purê de Ervilha",
+            "Virado de Cenoura",
+            "Alface, Abobrinha, Beterraba",
+            "Melancia"
         ],
         "lanche": [
-            "Pão Doce",
-            "Salsicha",
-            "Sopa de Macarrão",
-            "Banana"
+            "Pão de Hamburguer",
+            "Hamburguer",
+            "Canjiquinha",
+            "Melancia"
         ]
     },
     "6": {
