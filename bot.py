@@ -22,7 +22,7 @@ url = "https://raw.githubusercontent.com/coelhobf/ufv_ru_bot/master/semanal.json
 
 tw_almoco = True
 tw_jantar = True
-tw_day = 0
+tw_day = -1
 
 diff = timedelta(hours = -3) # fuzo do brasil
 fuzo = timezone(diff)
@@ -31,7 +31,7 @@ print("Iniciado, aguardando horario de publicar")
 
 while(True):
 
-    dia = datetime.today().astimezone(fuzo)
+    dia = datetime.now(fuzo)
 
     if(tw_day != dia.day):
         tw_day = dia.day
