@@ -31,14 +31,17 @@ print("Iniciado, aguardando horario de publicar")
 
 while(True):
 
+    # pega a data atual com fuzo horário do brasil
     dia = datetime.now(fuzo)
 
+    # verifica se o dia da ultima publicação é igual ao dia atual
+    # se for diferente, reseta as flags de publicação
     if(tw_day != dia.day):
         tw_day = dia.day
         tw_almoco = False
         tw_jantar = False
 
-    if(not tw_almoco and dia.hour == 11 and dia.minute == 0):
+    if(not tw_almoco and dia.hour == 10 and dia.minute == 0):
 
         resp = requests.get(url=url)
         data = resp.json()
@@ -54,7 +57,7 @@ while(True):
 
         tw_almoco = True
 
-    if(not tw_jantar and dia.hour == 17 and dia.minute == 00):
+    if(not tw_jantar and dia.hour == 16 and dia.minute == 00):
 
         resp = requests.get(url=url)
         data = resp.json()

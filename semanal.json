@@ -8,32 +8,31 @@
             "Banana"
         ],
         "jantar": [
-            "Espetinho de frango empanado ou omelete",
-            "Tomate recheado",
-            "Creme de ervilha",
-            "Acelga com rúcula, Cenoura ralada, Berinjela temperada",
-            "Goiabada com queijo"
+            "Bife Suíno Acebolado ou Ovos Mexidos",
+            "Escondidinho de Soja",
+            "Polenta ao Sugo",
+            "Acelga, Tomate, Repolho Refogado",
+            "Goiabada"
         ],
         "lanche": [
             "Pão Doce",
             "Salsicha",
             "Sopa de Macarrão",
-            "Goiabada com queijo"
+            "Goiabada"
         ]
     },
     "1": {
         "almoco": [
-            "Frango assado ou ovo cozido",
-            "Arroz com jaca e lentilha",
-            "Abobrinha refogada",
-            "Alface, Pepino, Chuchu com couve-flor",
-            "Cural com canela"
+            "Carne Moída com Batata ou Ovos ",
+            "Macarrão ao Sugo",
+            "Alface, Pepino, Moranga",
+            "Gelatina"
         ],
         "jantar": [
-            "Almondegas à parmegiana ou ovos assados",
-            "Almondega de soja ao sugo",
-            "Macarrão ao alho",
-            "Acelga, Tomate, Batata doce",
+            "Cubos de Frango ao Molho Yakisoba ou Omelete",
+            "Cassoulet Vegano",
+            "Virado de Couve",
+            "Mix de Folhas, Nabo, Batata com Baroa",
             "Melancia"
         ],
         "lanche": [
@@ -45,24 +44,23 @@
     },
     "2": {
         "almoco": [
-            "Bife suíno acebolado ou omelete à primavera",
-            "Feijão branco ao molho",
-            "Canjiquinha",
-            "Mix de folhas, Cenoura ralada, Antepasto de berinjela",
-            "Laranja"
+            "Strogonoff de Frango ou Omelete",
+            "Strogonoff Vegano",
+            "Batata Palha", "Acelga, Cenoura, Antepasto de Berinjela",
+            "Banana"
         ],
         "jantar": [
-            "Iscas de frango aceboladas",
-            "Quibe vegano",
-            "Purê de batata",
-            "Almeirão, Abobrinha ralada, Chuchu com barola",
-            "Pudim de chocolate com calda"
+            "Carne Bovino ao Molho ou Ovos",
+            "Lentilha com Brócolis ",
+            "Mandioca Ensopada",
+            "Alface, Tomate, Chuchu com Couve Flor",
+            "Gelatina"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
-            "Creme de inhame",
-            "Pudim"
+            "Sopa de Mandioca",
+            "Gelatina"
         ]
     },
     "3": {
