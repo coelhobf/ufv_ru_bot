@@ -23,134 +23,134 @@
     },
     "1": {
         "almoco": [
-            "Carne Moída com Batata ou Ovos ",
-            "Cassoulet Vegano",
-            "Macarrão ao Sugo",
-            "Alface, Pepino, Moranga",
-            "Gelatina"
+            "Frango Empanado ou Omelete de Queijo",
+            "Lasanha à Bolonhesa",
+            "Purê de Batata",
+            "Alface, Cenoura, Chuchu com Couve Flor",
+            "Pudim de Chocolate com Calda"
         ],
         "jantar": [
-            "Cubos de Frango ao Molho Yakisoba ou Omelete",
-            "Cassoulet Vegano",
-            "Virado de Couve",
-            "Mix de Folhas, Nabo, Batata com Baroa",
+            "Cubos bovino com Legumes ou Ovos Assados",
+            "Torta de Couve Flor",
+            "Mandioca Ensopada",
+            "Mix de Folhas, Pepino, Berinjela Temperada",
             "Melancia"
         ],
         "lanche": [
             "Pão Doce",
             "Muçarela",
-            "Bambá de couve",
+            "Sopa de Mandioca",
             "Melancia"
         ]
     },
     "2": {
         "almoco": [
-            "Strogonoff de Frango ou Omelete",
-            "Strogonoff Vegano",
-            "Batata Palha",
-            "Acelga, Cenoura, Antepasto de Berinjela",
-            "Banana"
+            "Bife de Pernil Acebolado ou Tortilha de Tomate",
+            "Brócolis com Lentilha",
+            "Canjiquinha",
+            "Repolho, Beterraba, Moranga",
+            "Laranja"
         ],
         "jantar": [
-            "Carne Bovino ao Molho ou Ovos",
-            "Lentilha com Brócolis ",
-            "Mandioca Ensopada",
-            "Alface, Tomate, Chuchu com Couve Flor",
-            "Gelatina"
+            "Espetinho Empanado ou Ovos Cozidos",
+            "Grão de Bico com Legumes",
+            "Creme de Ervilha",
+            "Acelga com Almeirão, Tomate, Abobrinha com Milho",
+            "Banana"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
-            "Sopa de Mandioca",
+            "Creme de Moranga",
             "Gelatina"
         ]
     },
     "3": {
         "almoco": [
-            "Feijoada ou Tortilha de Legumes",
-            "Feijoada Vegana",
+            "Feijoada ou Ovo Cozido",
+            "Feijoada Vegano",
             "Farofa Dourada",
-            "Couve, Beterraba, Abobrinha",
-            "Banana"
+            "Couve, Cenoura, Antepasto de Berinjela",
+            "Gelatina"
         ],
         "jantar": [
-            "Cubos Misto Grelhado ou Ovos",
-            "Lasanha de Abobrinha",
-            "Canjiquinha",
-            "Salada Verde, Vinagrete, Batata Doce",
+            "Carne Moída à Primavera ou Omelete de Queijo",
+            "Mix de Grão à Primavera",
+            "Espaguete ao Sugo",
+            "Mix de Folhas, Nabo com Pimentão, Batata Doce",
             "Laranja"
         ],
         "lanche": [
             "Pão doce",
-            "Salsicha",
-            "Canjiquinha",
+            "Margarina",
+            "Sopa de Legumes",
             "Laranja"
         ]
     },
     "4": {
         "almoco": [
-            "Frango Assado ou Ovos Cozidos",
-            "Bobo de Soja",
+            "Frango Assado ou Ovos Mexidos",
+            "Arroz com Jaca e Lentilha",
             "Guisado de Chuchu com Quiabo",
-            "Alface, Pepino com Tomate, Beterraba",
-            "Curau com Canela"
+            "Acelga com Rúcula, Beterraba, Moranga",
+            "Banana"
         ],
         "jantar": [
-            "Almôndegas Bovina à Parmegiana ou Ovos Assados",
-            "Mix de Grãos ao Sugo",
-            "Parafuso ao Alho",
-            "Mix de Folhas, Nabo, Moranga",
-            "Banana"
+            "Peixe Frito no Fubá ou Ovos Assados",
+            "Purê de Grão de Bico",
+            "Pirão",
+            "Alface, Tomate, Batata Temperada",
+            "Curau com Canela"
         ],
         "lanche": [
             "Pão doce",
             "Muçarela",
             "Sopa de macarrão",
-            "Banana"
+            "Laranja"
         ]
     },
     "5": {
         "almoco": [
-            "Peixe no Fubá ou Tortilha",
-            "Couve Flor à bolonhesa",
-            "Pirão com Ovos",
-            "Acelga com Almeirão, Cenoura Ralada, Batata Temperada",
-            "Maçã"
+            "Cubos Bovino ao Molho ou Omelete",
+            "Feijão Branco ao Molho",
+            "Repolho Búlgaro",
+            "Alface, Pepino, Abobrinha com Baroa",
+            "Doce de Mamão"
         ],
         "jantar": [
-            "Lasanha à Bolonhesa ou Ovos",
-            "Lentilha com Legumes",
-            "Cenoura Vick",
-            "Mix de Folhas, Tomate, Chuchu",
+            "Bife Suíno Acebolado ou Ovo",
+            "Quibe de Soja",
+            "Creme de Inhame",
+            "Salada de Folhas, Nabo, Seleta de Legumes",
             "Paçoquinha"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
-            "Creme de Inhame",
+            "Sopa de Inhame",
             "Paçoquinha"
         ]
     },
     "6": {
         "almoco": [
-            "Bife Suíno Acebolado ou Omelete",
-            "Assado de Aveia com Soja",
-            "Repolho Búlgaro",
-            "Alface, Tomate, Beterraba",
-            "Doce de Abóbora com Coco"
+            "Strogonoff de Frango ou Omelete",
+            "Strogonoff Vegano",
+            "Batata Palha",
+            "Alface com Almeirão, Vinagrete, Beterraba",
+            "Maçã"
         ],
         "jantar": [
-            "Lagarto Assado ao Molho Madeira",
-            "Arroz com Jaca e Lentilha",
+            "Bife Bovino ao Molho Madeira ou Tortilha de Tomate",
+            "Cenoura Vick",
             "Suflê de Legumes",
-            "Mix de Folhas, Abobrinha, Batata Doce",
-            "Melancia"
+            "Acelga com Rúcula, Pepino, Moranga",
+            "Goiabada"
         ],
         "lanche": [
             "Pão Doce",
             "Muçarela",
-            "Sopa de Macarrão",
-            "Banana"
+            "Creme de Inhame",
+            "Goiabada"
         ]
     }
 }
