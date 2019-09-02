@@ -24,6 +24,7 @@
     "1": {
         "almoco": [
             "Carne Moída com Batata ou Ovos ",
+            "Cassoulet Vegano",
             "Macarrão ao Sugo",
             "Alface, Pepino, Moranga",
             "Gelatina"
@@ -46,7 +47,8 @@
         "almoco": [
             "Strogonoff de Frango ou Omelete",
             "Strogonoff Vegano",
-            "Batata Palha", "Acelga, Cenoura, Antepasto de Berinjela",
+            "Batata Palha",
+            "Acelga, Cenoura, Antepasto de Berinjela",
             "Banana"
         ],
         "jantar": [
@@ -65,90 +67,90 @@
     },
     "3": {
         "almoco": [
-            "Carne bovina com calabresa ou ovos assados",
-            "Purê de ervilha",
-            "Mandioca ensopada",
-            "Alface, Picles de pepino, Moranga",
-            "Gelatina"
+            "Feijoada ou Tortilha de Legumes",
+            "Feijoada Vegana",
+            "Farofa Dourada",
+            "Couve, Beterraba, Abobrinha",
+            "Banana"
         ],
         "jantar": [
-            "Lombo assado ao molho madeira",
-            "Proteina de soja ao sugo",
-            "Virado de couve",
-            "Acelga, Tomate, Batata doce",
+            "Cubos Misto Grelhado ou Ovos",
+            "Lasanha de Abobrinha",
+            "Canjiquinha",
+            "Salada Verde, Vinagrete, Batata Doce",
             "Laranja"
         ],
         "lanche": [
             "Pão doce",
             "Salsicha",
-            "Sopa de legumes",
+            "Canjiquinha",
             "Laranja"
         ]
     },
     "4": {
         "almoco": [
-            "Frango xadrez ou omelete de queijo",
-            "Grão de bico com legumes",
-            "Cenoura vick",
-            "Mix de folha, Beterraba, Chuchu",
-            "Banana"
+            "Frango Assado ou Ovos Cozidos",
+            "Bobo de Soja",
+            "Guisado de Chuchu com Quiabo",
+            "Alface, Pepino com Tomate, Beterraba",
+            "Curau com Canela"
         ],
         "jantar": [
-            "Peixe no fubá ou tortilha de tomate",
-            "Lasanha de berinjela",
-            "Repolho búlgaro",
-            "Alface com rúcula, Nabo com pimentão, Batata",
-            "Doce de mamão ralado"
+            "Almôndegas Bovina à Parmegiana ou Ovos Assados",
+            "Mix de Grãos ao Sugo",
+            "Parafuso ao Alho",
+            "Mix de Folhas, Nabo, Moranga",
+            "Banana"
         ],
         "lanche": [
             "Pão doce",
             "Muçarela",
             "Sopa de macarrão",
-            "Doce de mamão ralado"
+            "Banana"
         ]
     },
     "5": {
         "almoco": [
-            "Feijoada ou tortilha de legumes",
-            "Feijoada vegana",
-            "Farofa dourada",
-            "Couve, Vinagrete, Moranga",
-            "Gelatina"
+            "Peixe no Fubá ou Tortilha",
+            "Couve Flor à bolonhesa",
+            "Pirão com Ovos",
+            "Acelga com Almeirão, Cenoura Ralada, Batata Temperada",
+            "Maçã"
         ],
         "jantar": [
-            "Bife bovino acebolado ou ovos",
-            "Escondidinho de soja",
-            "Legumes sautê",
-            "Acelga, Rabanete, Batata doce",
-            "Laranja"
+            "Lasanha à Bolonhesa ou Ovos",
+            "Lentilha com Legumes",
+            "Cenoura Vick",
+            "Mix de Folhas, Tomate, Chuchu",
+            "Paçoquinha"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
-            "Canjiquinha",
-            "Laranja"
+            "Creme de Inhame",
+            "Paçoquinha"
         ]
     },
     "6": {
         "almoco": [
-            "Strogonoff de frango ou ovos cozidos",
-            "Strogonoff de soja",
-            "Batata palha",
-            "Alface, Tomate, Abobrinha",
-            "Maça"
+            "Bife Suíno Acebolado ou Omelete",
+            "Assado de Aveia com Soja",
+            "Repolho Búlgaro",
+            "Alface, Tomate, Beterraba",
+            "Doce de Abóbora com Coco"
         ],
         "jantar": [
-            "Filé de frago grelhado ou omelete",
-            "Charuto de repolho",
-            "Creme de inhame",
-            "Mix de folhas, Pepino, Batata temperada",
-            "Paçoquinha"
+            "Lagarto Assado ao Molho Madeira",
+            "Arroz com Jaca e Lentilha",
+            "Suflê de Legumes",
+            "Mix de Folhas, Abobrinha, Batata Doce",
+            "Melancia"
         ],
         "lanche": [
             "Pão Doce",
             "Muçarela",
-            "Creme de inhame",
-            "Paçoquinha"
+            "Sopa de Macarrão",
+            "Banana"
         ]
     }
 }
