@@ -1,3 +1,6 @@
+## IMPORTANT
+dev = False
+
 import tweepy
 from os import environ as env
 from dotenv import load_dotenv
@@ -10,13 +13,24 @@ access_token = env["access_token"]
 access_token_secret = env["access_token_secret"]
 
 #Logando com elas no twitter
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
-api = tweepy.API(auth) #Cria objeto da api
+if(not dev):
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    api = tweepy.API(auth) #Cria objeto da api
 
 from datetime import datetime, timezone, timedelta
 import requests
 from status import textoAlmoco, textoJantar, textoLanche
+
+dias = [
+    'seg',
+    'ter',
+    'qua',
+    'qui',
+    'sex',
+    'sab',
+    'dom'
+]
 
 url = "https://raw.githubusercontent.com/coelhobf/ufv_ru_bot/master/semanal.json"
 
@@ -41,41 +55,58 @@ while(True):
         tw_almoco = False
         tw_jantar = False
 
-    if(not tw_almoco and dia.hour == 10 and dia.minute == 0):
+    if(dev or not tw_almoco and dia.hour == 10 and dia.minute == 0):
 
         resp = requests.get(url=url)
         data = resp.json()
 
         almoco = data[str(dia.weekday())]["almoco"]
 
-        almoco = textoAlmoco(almoco)
+        almoco_base = f"ALMOÇO {dias[dia.weekday()]}, {dia.day}"
+        almoco = almoco_base + textoAlmoco(almoco)
 
-        # status = "[test]\n" + almoco
         status = almoco
-        api.update_status(status = status)
-        print("Almoço publicado")
+        if(dev):
+            if(not tw_almoco):
+                print(status)
+        else:
+            api.update_status(status = status)
+            print("Almoço publicado")
 
+        
         tw_almoco = True
-
-    if(not tw_jantar and dia.hour == 16 and dia.minute == 00):
+    
+    if(dev or not tw_jantar and dia.hour == 16 and dia.minute == 00):
 
         resp = requests.get(url=url)
         data = resp.json()
 
         jantar = data[str(dia.weekday())]["jantar"]
         lanche = data[str(dia.weekday())]["lanche"]
+ 
+        jantar_base = f"JANTAR {dias[dia.weekday()]}, {dia.day}"
+        jantar = jantar_base + textoJantar(jantar)
 
-        jantar = textoJantar(jantar)
-        lanche = textoLanche(lanche)
+        lanche_base = f"LANCHE {dias[dia.weekday()]}, {dia.day}"
+        lanche = lanche_base + textoLanche(lanche)
 
-        # status = "[test]\n" + jantar
         status = jantar
-        api.update_status(status = status)
-        print("Jantar publicado")
+        if(dev):
+            if(not tw_jantar):
+                print(status)
+        else:
+            api.update_status(status = status)
+            print("Jantar publicado")
+        
 
         status = lanche
-        # status = "[test]\n" + lanche
-        api.update_status(status = status)
-        print("Lanche publicado")
+        if(dev):
+            if(not tw_jantar):
+                print(status)
+        else:
+            api.update_status(status = status)
+            print("Lanche publicado")
         
+
         tw_jantar = True
+        
