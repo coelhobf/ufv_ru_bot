@@ -1,5 +1,5 @@
 ## IMPORTANT
-dev = False
+dev = True
 
 import tweepy
 from os import environ as env
@@ -62,7 +62,7 @@ while(True):
 
         almoco = data[str(dia.weekday())]["almoco"]
 
-        almoco_base = f"ALMOÇO {dias[dia.weekday()]}, {dia.day}"
+        almoco_base = f"ALMOÇO {dias[dia.weekday()]}, {dia.day}\n"
         almoco = almoco_base + textoAlmoco(almoco)
 
         status = almoco
@@ -84,10 +84,10 @@ while(True):
         jantar = data[str(dia.weekday())]["jantar"]
         lanche = data[str(dia.weekday())]["lanche"]
  
-        jantar_base = f"JANTAR {dias[dia.weekday()]}, {dia.day}"
+        jantar_base = f"JANTAR {dias[dia.weekday()]}, {dia.day}\n"
         jantar = jantar_base + textoJantar(jantar)
 
-        lanche_base = f"LANCHE {dias[dia.weekday()]}, {dia.day}"
+        lanche_base = f"LANCHE {dias[dia.weekday()]}, {dia.day}\n"
         lanche = lanche_base + textoLanche(lanche)
 
         status = jantar
