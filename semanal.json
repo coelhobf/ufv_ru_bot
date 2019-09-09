@@ -1,46 +1,46 @@
 {
     "0": {
         "almoco": [
-            "Almôndegas à Parmegiana ou Ovos Cozidos",
-            "Almôndegas Vegano ao Sugo",
-            "Parafuso Alho Óleo",
-            "Repolho, Pepino com Tomate, Beterraba Cozida",
+            "Frango Assado ou Ovos Mexidos",
+            "Mix de Grãos com Legumes",
+            "Polenta ao Sugo",
+            "Repolho com Almeirão, Beterraba, Moranga",
             "Banana"
         ],
         "jantar": [
-            "Frango Assado ou Ovos Mexidos",
-            "Escondidinho de Soja",
-            "Farofa de Frutas",
-            "Alface, Vinagrete, Batata Doce",
+            "Almôndegas à Parmegiana ou Tortilha de Tomate",
+            "Tomate Recheado",
+            "Macarrão Alho e Óleo",
+            "Mix de Folhas, Piclês de Pepino, Cenoura",
+            "Melancia"
+        ],
+        "lanche": [
+            "Pão Francês",
+            "Margarina",
+            "Sopa de Macarrão",
+            "Melancia"
+        ]
+    },
+    "1": {
+        "almoco": [
+            "Lombo Assado ao Molho Madeira ou Ovos Cozidos",
+            "Lentilha com Brócolis e Baroa",
+            "Chuchu Ensopado",
+            "Alface, Abobrinha Ralada, Berinjela Temperada",
+            "Gelatina"
+        ],
+        "jantar": [
+            "Frango Empanado ou Ovos Assados",
+            "Lasanha de Berinjela",
+            "Creme de Milho",
+            "Acelga com Almeirão, Tomate, Ervilha",
             "Laranja"
         ],
         "lanche": [
             "Pão Doce",
             "Salsicha",
-            "Sopa de Macarrão",
+            "Bambá de Couve",
             "Laranja"
-        ]
-    },
-    "1": {
-        "almoco": [
-            "Frango Empanado ou Omelete de Queijo",
-            "Lasanha à Bolonhesa",
-            "Purê de Batata",
-            "Alface, Cenoura, Chuchu com Couve Flor",
-            "Pudim de Chocolate com Calda"
-        ],
-        "jantar": [
-            "Cubos bovino com Legumes ou Ovos Assados",
-            "Torta de Couve Flor",
-            "Mandioca Ensopada",
-            "Mix de Folhas, Pepino, Berinjela Temperada",
-            "Melancia"
-        ],
-        "lanche": [
-            "Pão Doce",
-            "Muçarela",
-            "Sopa de Mandioca",
-            "Melancia"
         ]
     },
     "2": {
