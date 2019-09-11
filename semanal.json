@@ -45,24 +45,24 @@
     },
     "2": {
         "almoco": [
-            "Bife de Pernil Acebolado ou Tortilha de Tomate",
-            "Brócolis com Lentilha",
-            "Canjiquinha",
-            "Repolho, Beterraba, Moranga",
-            "Laranja"
+            "Strogonoff de Frango ou Ovos Assados",
+            "Strogonoff Vegano",
+            "Batata Palha",
+            "Alface, Tabule, Cenoura Cozida",
+            "Doce de Mamão"
         ],
         "jantar": [
-            "Espetinho Empanado ou Ovos Cozidos",
-            "Grão de Bico com Legumes",
-            "Creme de Ervilha",
-            "Acelga com Almeirão, Tomate, Abobrinha com Milho",
-            "Banana"
+            "Bife de Pernil Grelhado ou Tortilha de Queijo",
+            "Mix de Grãos",
+            "Virado de Couve",
+            "Acelga, Piclês de Pepino, Batata Doce",
+            "Melancia"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
             "Creme de Moranga",
-            "Gelatina"
+            "Melancia"
         ]
     },
     "3": {
