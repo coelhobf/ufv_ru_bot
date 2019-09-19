@@ -133,24 +133,24 @@
     },
     "6": {
         "almoco": [
-            "Bife Bovino Acebolado",
-            "Feijão Branco ao Molho",
-            "Creme de Ervilha",
-            "Alface, Beterraba, Berinjela",
-            "Maçã"
+            "Frango Assado ou Ovos Cozidos",
+            "Grão de Bico ao Molho",
+            "Purê dourado",
+            "Alface com Rúcula, Pepino, Beterraba",
+            "Melancia"
         ],
         "jantar": [
-            "Peixe no Fubá ou Omelete",
-            "Torta de Couve Flor",
-            "Pirão",
-            "Alface, Tomate, Salpicão",
-            "Goiabada"
+            "Peixe no Fubá ou Tortilha de Tomate",
+            "Lentilha de Legumes",
+            "Chuchu Refogado",
+            "Acelga, Nabo, Batata Doce",
+            "Gelatina"
         ],
         "lanche": [
             "Pão Doce",
-            "Muçarela",
-            "Creme de Inhame",
-            "Goiabada"
+            "Linguiça ao Molho",
+            "Sopa de Macarrão",
+            "Gelatina"
         ]
     }
 }
