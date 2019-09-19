@@ -89,59 +89,15 @@
     },
     "4": {
         "almoco": [
-            "Feijoada ou Omelete de Queijo",
-            "Feijoada Vegano",
-            "Farofa Dourada",
-            "Couve, Tomate com Pepino, Moranga",
-            "Laranja"
-        ],
-        "jantar": [
-            "Bife Suíno Acebolado ou Tortilha de Legumes",
-            "Ratatouille",
-            "Legumes ao Alho",
-            "Alface, Vinagrete, Beterraba",
-            "Banana"
-        ],
-        "lanche": [
-            "Pão Francês",
-            "Iscas de Frango ao Molho",
-            "Sopa de macarrão",
-            "Banana"
-        ]
-    },
-    "5": {
-        "almoco": [
-            "Strogonoff de Frango ou Omelete",
-            "Strogonoff Vegano", 
-            "Batata Palha",
-            "Mix de Folhas, Abobrinha, Salada de Grãos",
-            "Banana"
-        ],
-        "jantar": [
-            "Carne Cozida ao Molho ou Ovos Assados",
-            "Ratatouille",
-            "Cenoura Vick",
-            "Alface, Tomate, Batata",
-            "Pudim de Baunilha com Calda"
-        ],
-        "lanche": [
-            "Pão Doce",
-            "Iscas de Frango ao Molho",
-            "Sopa de Legumes",
-            "Pudim de Baunilha"
-        ]
-    },
-    "6": {
-        "almoco": [
             "Frango Assado ou Ovos Cozidos",
-            "Grão de Bico ao Molho",
-            "Purê dourado",
-            "Alface com Rúcula, Pepino, Beterraba",
+            "Frango Assado ou Ovos Cozidos",
+            "Purê Dourado",
+            "Alface com Rúcula, Pepino e Beterraba",
             "Melancia"
         ],
         "jantar": [
             "Peixe no Fubá ou Tortilha de Tomate",
-            "Lentilha de Legumes",
+            "Lentilha com Legumes",
             "Chuchu Refogado",
             "Acelga, Nabo, Batata Doce",
             "Gelatina"
@@ -149,8 +105,52 @@
         "lanche": [
             "Pão Doce",
             "Linguiça ao Molho",
-            "Sopa de Macarrão",
+            "Sopa de macarrão",
             "Gelatina"
+        ]
+    },
+    "5": {
+        "almoco": [
+            "Bife de Pernil Grelhado ou Ovos Mexidos",
+            "Feijão Branco com Milho", 
+            "Creme de Inhame",
+            "Alface com Almeirão, Vinagrete, Cenoura",
+            "Pudim de Chocolate com Calda"
+        ],
+        "jantar": [
+            "Lagarto ao Molho Rôti ou Omelete",
+            "Lasanha de Beringela",
+            "Batata Sautê",
+            "Mix de Folhas, Toamate e Moranga",
+            "Maçã"
+        ],
+        "lanche": [
+            "Pão de Hambúrguer",
+            "Hambúrguer",
+            "Bambá de Couve",
+            "Maçã"
+        ]
+    },
+    "6": {
+        "almoco": [
+            "Bife Bovino Acebolado ou Ovos Assados",
+            "Proteína de Soja ao Sugo ",
+            "Couve Refogada",
+            "Alface, Nabo com Pimentão, Seleta de Legumes",
+            "Banana"
+        ],
+        "jantar": [
+            "Espetinho de Frango Empanado ou Tortilha de Tomate",
+            "Tomate Recheado",
+            "Creme de Ervilha",
+            "Acelga com Rucula, Beterraba e Beringela Temperada",
+            "Paçoquinha"
+        ],
+        "lanche": [
+            "Pão de Hambúrguer",
+            "Hambúrguer",
+            "Creme de Ervilha",
+            "Paçoquinha"
         ]
     }
 }
