@@ -23,40 +23,40 @@
     },
     "1": {
         "almoco": [
-            "Carne Moída à Primavera ou Ovos Assados",
-            "Purê de Ervilha",
-            "Mandioca Ensopada",
-            "Alface, Beterraba, Abobrinha com Couve Flor",
-            "Gelatina"
+            "Frango Assado ou Ovos Cozidos",
+            "Arroz com Jaca e Lentilha",
+            "Abobrinha Refogada",
+            "Alface, Pepino, Beterraba",
+            "Curau com Canela"
         ],
         "jantar": [
-            "Linguiça Assada ou Omelete à Primavera",
-            "Quibe Vegano",
-            "Canjiquinha",
-            "Mix de Folhas, Nabo, Batata Doce",
+            "Almôndegas à Parmegiana ou Ovos",
+            "Almôndegas Vegana",
+            "Macarrão Alho e Óleo",
+            "Acelga, Tomate, Batata Doce",
             "Melancia"
         ],
         "lanche": [
             "Pão Doce",
             "Mussarela",
-            "Canjiquinha",
+            "Bambá de Couve",
             "Melancia"
         ]
     },
     "2": {
         "almoco": [
-            "Feijoada ou Ovos Mexidos",
-            "Feijoada Vegana",
-            "Farofa Dourada",
-            "Couve, Pepino, Moranga",
+            "Bife Suíno Acebolado ou Omelete",
+            "Feijão Branco ao Molho ",
+            "Canjiquinha",
+            "Mix de Folhas, Cenoura, Antepasto de Berinjela",
             "Laranja"
         ],
         "jantar": [
-            "Almôndegas à Parmegiana ou Ovos Cozidos",
-            "Arroz com Jaca e Lentilha",
-            "Macarrão ao Alho e Óleo",
-            "Alface, Tabule Antepasto de Berinjela",
-            "Goiabada"
+            "Espetinho de Frango Empanado ou Ovos",
+            "Quibe Vegano",
+            "Purê Misto",
+            "Alface, Nabo, Chuchu com Batata Baroa",
+            "Gelatina"
         ],
         "lanche": [
             "Pão de hambúrguer",
