@@ -23,23 +23,23 @@
     },
     "1": {
         "almoco": [
-            "Frango Assado ou Ovos Cozidos",
-            "Arroz com Jaca e Lentilha",
-            "Abobrinha Refogada",
-            "Alface, Pepino, Beterraba",
-            "Curau com Canela"
+            "Frango Empanado ou Omelete de Queijo",
+            "Lasanha Bolonhesa de Proteína de Soja",
+            "Purê de Batata",
+            "Alface, Cenoura, Chuchu com Couve-Flor",
+            "Pudim de Chocolate com Calda"
         ],
         "jantar": [
-            "Almôndegas à Parmegiana ou Ovos",
-            "Almôndegas Vegana",
-            "Macarrão Alho e Óleo",
-            "Acelga, Tomate, Batata Doce",
+            "Cubos Bovinos com Legumes ou Ovos Mexidos",
+            "Torta de Couve-Flor",
+            "Mandioca Ensopada",
+            "Mix de Folhas, Pepino, Batata",
             "Melancia"
         ],
         "lanche": [
             "Pão Doce",
             "Mussarela",
-            "Bambá de Couve",
+            "Mandioca",
             "Melancia"
         ]
     },
