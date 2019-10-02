@@ -45,90 +45,90 @@
     },
     "2": {
         "almoco": [
-            "Bife Suíno Acebolado ou Omelete",
-            "Feijão Branco ao Molho ",
-            "Canjiquinha",
-            "Mix de Folhas, Cenoura, Antepasto de Berinjela",
-            "Laranja"
+            "Bife de Pernil Acebolado ou Ovos Assados",
+            "Brócolis com Lentilha",
+            "Macarrão ao Sugo",
+            "Repolho com Alface, Beterraba, Moranga",
+            "Goiaba"
         ],
         "jantar": [
-            "Espetinho de Frango Empanado ou Ovos",
-            "Quibe Vegano",
-            "Purê Misto",
-            "Alface, Nabo, Chuchu com Batata Baroa",
-            "Gelatina"
+            "Espetinho Empanado ou Omelete de Queijo",
+            "Grão de Bico com Legumes",
+            "Creme de Ervilha",
+            "Acelga com Almeirão, Tomate, Abobrinha com Milho",
+            "Banana"
         ],
         "lanche": [
             "Pão de hambúrguer",
             "Hambúrguer",
-            "Creme de Moranga",
-            "Gelatina"
+            "Bambá de Couve",
+            "Banana"
         ]
     },
     "3": {
         "almoco": [
-            "Strogonoff ou Omelete de Queijo ",
-            "Strogonoff Vegano",
-            "Batata Palha",
-            "Alface, Piclês de Pepino, Moranga",
-            "Banana"
+            "Feijoada ou Ovos Cozidos",
+            "Feijoada Vegana",
+            "Farofa Dourada",
+            "Couve, Cenoura, Berinjela",
+            "Gelatina"
         ],
         "jantar": [
-            "Lombo Assado ao Molho Madeira ou Ovos Cozidos",
-            "Proteína de Soja ao Sugo",
-            "Virado de Couve",
-            "Acelga, Tomate, Batata Doce",
-            "Maçã"
+            "Carne Moída à Primavera",
+            "Mix de Grãos à Primavera",
+            "Espaguete Alho e Óleo",
+            "Mix de Folhas, Nabo, Batata doce",
+            "Laranja"
         ],
         "lanche": [
-            "Pão Doce",
-            "Calabresa",
+            "Pão Francês",
+            "Linguiça Assada",
             "Sopa de Legumes",
             "Laranja"
         ]
     },
     "4": {
         "almoco": [
-            "Carne Bovina com Legumes ou Ovos Assados",
-            "Purê de Ervilha",
-            "Mandioca Ensopada",
-            "Alface, Beterraba, Chuchu",
-            "Gelatina"
+            "Frango Assado ou Ovos Mexidos",
+            "Arroz com Jaca e Lentilha",
+            "Guisado de Chuchu com Quiabo",
+            "Acelga com Rúcula, Beterraba, Moranga",
+            "Banana"
         ],
         "jantar": [
-            "Filé de Peixe Empanado ou Ovos",
-            "Grão de Bico com Legumes",
-            "Creme de Milho",
-            "Acelga, Tomate, Ervilha com Milho",
-            "Melancia"
+            "Peixe Frito no Fubá ou Tortilha de Legumes",
+            "Mix de Grãos ao Sugo",
+            "Pirão",
+            "Alface, Tomate, Cenoura",
+            "Curau com Canela"
         ],
         "lanche": [
             "Pão Doce",
-            "Mussarela",
-            "Sopa de macarrão",
-            "Melancia"
+            "Iscas de Frango",
+            "Sopa de Canjiquinha",
+            "Curau com Canela"
         ]
     },
     "5": {
         "almoco": [
-            "Feijoada ou Tortilha de Legumes",
-            "Feijoada Vegana", 
-            "Farofa Dourada",
-            "Couve, Vinagrete, Batata",
-            "Laranja"
+            "Cubos Bovinos com Batata ou Omelete de Queijo",
+            "Purê de Ervilha", 
+            "Repolho Búlgaro",
+            "Alface, Pepino, Abobrinha com Baroa",
+            "Doce de Mamão Ralado"
         ],
         "jantar": [
-            "Bife Bovino Acebolado ou Ovos",
-            "Escondidinho de Soja",
-            "Legumes Sautê",
-            "Alface, Nabo, Beterraba",
-            "Doce de Mamão"
+            "Bife Suíno Acebolado ou Ovos Cozidos",
+            "Quibe de soja",
+            "Creme de Inhame",
+            "Salada de Folhas, Nabo, Maionese de Legumes",
+            "Gelatina"
         ],
         "lanche": [
             "Pão de Hambúrguer",
             "Hambúrguer",
-            "Canjiquinha",
-            "Doce de Mamão"
+            "Creme de Inhame",
+            "Gelatina"
         ]
     },
     "6": {
