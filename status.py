@@ -28,11 +28,10 @@ def textoJantar(dados):
 
 def textoLanche(dados):
     try:
-        texto = "\n"
-        texto += dados[0] + "\n"
-        texto += dados[1] + "\n"
-        texto += dados[2] + "\n"
-        texto += dados[3]
+        texto = ""
+        
+        for dado in dados:
+            texto += '\n' + dado
     except:
         texto = "[ERRO NA PUBLICAÇÃO]"
 

@@ -1,5 +1,6 @@
 ## IMPORTANT
-dev = True
+# dev = True
+dev = False
 
 import tweepy
 from os import environ as env
