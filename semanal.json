@@ -25,72 +25,72 @@
     },
     "1": {
         "almoco": [
-            "Frango Assado ou Ovos Mexidos",
-            "Arroz com Jaca e Lentilha",
-            "Espaguete Alho e Óleo",
-            "Mix de Folhas, Pepino, Abobrinha",
-            "Curau com Canela"
+            "Frango Empanado ou Omelete de Queijo",
+            "Lasanha à Bolonhesa",
+            "Purê de Batata",
+            "Alface, Cenoura Ralada, Chuchu com Couve Flor",
+            "Pudim de Chocolate com Calda"
         ],
         "jantar": [
-            "Cubos Mistos Acebolado ou Ovos Mexidos",
-            "Cassoulet Vegano",
-            "Virado de Couve",
-            "Alface, Nabo, Chuchu com Baroa",
-            "Banana"
+            "Cubos Bovinos com Legumes ou Ovos Assados",
+            "Torta de Couve Flor",
+            "Mandioca Ensopada",
+            "Mix de Folhas, Tomate, Berinjela",
+            "Melancia"
         ],
         "lanche": [
             "Pão Francês",
             "Calabresa",
-            "Caldo Verde com Bacon",
-            "Espaguete ao Molho de Calabresa",
-            "Banana"
+            "Mandioca Ensopada",
+            "Espaguete ao Sugo",
+            "Melancia"
         ]
     },
     "2": {
         "almoco": [
-            "Bife Suíno Acebolado ou Tortilha de Tomate",
-            "Feijão Branco ao Molho",
-            "Creme de Queijo",
-            "Mix de Folhas, Cenoura, Berinjela Temperada",
-            "Melancia"
+            "Bife de Pernil Acebolado ou Tortilha de Tomate",
+            "Brócolis com Lentilha",
+            "Repolho Búlgaro",
+            "Alface com Agrião, Beterraba Ralada, Moranga",
+            "Maçã"
         ],
         "jantar": [
-            "Iscas de Frango Acebolada ou Ovos Mexidos",
-            "Quibe Vegano",
-            "Canjiquinha",
-            "Alface, Abobrinha, Chuchu com Baroa",
+            "Filé de Frango Grelhado ou Ovos Assados",
+            "Grão de Bico com Legumes",
+            "Creme de Ervilha",
+            "Acelga com Almeirão, Tomate, Abobrinha Cubinhos com Milho",
             "Banana"
         ],
         "lanche": [
-            "Pão de Hambúrguer",
-            "Hambúrguer",
-            "Alface e Tomate",
-            "Canjiquinha",
+            "Pão",
+            "Margarina",
+            "Espetinho de Frango",
+            "Creme de Ervilha",
             "Macarrão à Carbonara",
             "Banana"
         ]
     },
     "3": {
         "almoco": [
-            "Frango Assado ou Ovos Mexidos",
-            "Bobo de Soja",
-            "Chuchu com Quiabo",
-            "Alface, Pepino, Beterraba",
-            "Banana"
+            "Feijoada ou Ovo Cozidos",
+            "Feijoada Vegana",
+            "Farofa Dourada",
+            "Couve, Vinagrete, Berinjela",
+            "Gelatina"
         ],
         "jantar": [
-            "Bife Suíno ou Omelete de Queijo",
-            "Mix de Grãos com Legumes",
-            "Canjiquinha",
-            "Mix de Folhas, Cenoura, Batata Doce",
-            "Melancia"
+            "Carne Moída à Primavera ou Ovos Assados",
+            "Tomate Recheado com Ervilha Seca",
+            "Espaguete ao Sugo",
+            "Mix de Folhas, Nabo, Batata Doce",
+            "Laranja"
         ],
         "lanche": [
-            "Strogonoff com Batata Palha",
-            "Pão com Margarina",
-            "Sopa de Canjiquinha",
-            "Arroz",
-            "Melancia"
+            "Pão",
+            "Linguiça Assada",
+            "Caldinho de Feijão",
+            "Espaguete ao Suco",
+            "Laranja"
         ]
     },
     "4": {
