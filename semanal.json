@@ -25,49 +25,50 @@
     },
     "1": {
         "almoco": [
-            "Frango Empanado ou Omelete de Queijo",
-            "Lasanha à Bolonhesa",
-            "Purê de Batata",
-            "Alface, Cenoura Ralada, Chuchu com Couve Flor",
-            "Pudim de Chocolate com Calda"
+            "Lombo Assado ao M. Madeira ou Ovos Mexidos",
+            "Lentilha com Brócolis e Baroa",
+            "Chuchu Tropeiro",
+            "Alface, Beterraba, Batata ao Alho",
+            "Gelatina"
         ],
         "jantar": [
-            "Cubos Bovinos com Legumes ou Ovos Assados",
-            "Torta de Couve Flor",
-            "Mandioca Ensopada",
-            "Mix de Folhas, Tomate, Berinjela",
-            "Melancia"
+            "Frango Empanado ou Omelete de Queijo",
+            "Lasanha de Berinjela",
+            "Creme de Milho",
+            "Acelga com Almeirão,  Tomate, Ervilha Seca Temperada",
+            "Laranja"
         ],
         "lanche": [
-            "Pão Francês",
-            "Calabresa",
+            "Pão de Hambúrguer/",
+            "Hambúrguer",
             "Mandioca Ensopada",
-            "Espaguete ao Sugo",
-            "Melancia"
+            "Tomate e Alface",
+            "Sopa de Ervilha",
+            "Espaguete à Bolonhesa",
+            "Laranja"
         ]
     },
     "2": {
         "almoco": [
-            "Bife de Pernil Acebolado ou Tortilha de Tomate",
-            "Brócolis com Lentilha",
-            "Repolho Búlgaro",
-            "Alface com Agrião, Beterraba Ralada, Moranga",
-            "Maçã"
+            "Strogonoff de Frango ou Tortilha de Tomate",
+            "Strogonoff Vegano",
+            "Batata Palha",
+            "Alface, Tabule, Cenoura Cozida",
+            "Doce de Mamão Ralado"
         ],
         "jantar": [
-            "Filé de Frango Grelhado ou Ovos Assados",
-            "Grão de Bico com Legumes",
-            "Creme de Ervilha",
-            "Acelga com Almeirão, Tomate, Abobrinha Cubinhos com Milho",
-            "Banana"
+            "Bife Suíno Acebolado ou Ovo Cozido",
+            "Mix de Grãos",
+            "Canjiquinha",
+            "Acelga,  Picles de Pepino, Batata Doce",
+            "Goiaba"
         ],
         "lanche": [
-            "Pão",
-            "Margarina",
-            "Espetinho de Frango",
-            "Creme de Ervilha",
-            "Macarrão à Carbonara",
-            "Banana"
+            "Pão Doce",
+            "Muçarela e Presunto Fatiado",
+            "Canjiquinha",
+            "Macarrão a Carbonara",
+            "Goiaba"
         ]
     },
     "3": {
