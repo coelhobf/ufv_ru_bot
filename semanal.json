@@ -73,25 +73,26 @@
     },
     "3": {
         "almoco": [
-            "Feijoada ou Ovo Cozidos",
-            "Feijoada Vegana",
-            "Farofa Dourada",
-            "Couve, Vinagrete, Berinjela",
-            "Gelatina"
+            "Cubos Bovinos ao Molho/ Ovos Mexidos",
+            "Purê de Grão de Bico",
+            "Mandioca Ensopada",
+            "Mix de Folhas/ Beterraba Ralada/ Chuchu c/ Couve Flor",
+            "Banana"
         ],
         "jantar": [
-            "Carne Moída à Primavera ou Ovos Assados",
-            "Tomate Recheado com Ervilha Seca",
-            "Espaguete ao Sugo",
-            "Mix de Folhas, Nabo, Batata Doce",
-            "Laranja"
+            "Frango Assado ou Ovos Escalfados",
+            "Hambúrguer Vegano",
+            " Repolho Búlgaro",
+            "Alface/ Tomate/ Cenoura c/ Ervilha",
+            "Gelatina"
         ],
         "lanche": [
-            "Pão",
-            "Linguiça Assada",
-            "Caldinho de Feijão",
-            "Espaguete ao Suco",
-            "Laranja"
+            "Pão Doce",
+            "Salsicha ao Molho",
+            "Batata Palha",
+            "Sopa de Legumes",
+            "Espaguete ao Sugo",
+            "Gelatina"
         ]
     },
     "4": {
