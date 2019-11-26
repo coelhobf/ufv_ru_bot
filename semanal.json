@@ -25,49 +25,49 @@
     },
     "1": {
         "almoco": [
-            "Carne Moída à Primavera/ Ovos Assados",
-            "Ervilha à Primavera",
-            "Mandioca Ensopada",
-            "Alface/ Cenoura / Abobrinha c/ Couve Flor",
-            "Gelatina"
+            "Frango Assado/ Ovos Cozidos",
+            "Arroz c/ Jaca e Lentilha",
+            "Farofa de Frutas",
+            "Alface/ Pepino/ Beterraba ",
+            "Curau c/ Canela"
         ],
         "jantar": [
-            "Bife Suíno Acebolado",
-            "Quibe Vegano",
-            "Canjiquinha",
-            "Acelga c/ Almeirão/ Nabo/ Batata Doce",
+            "Almôndegas à Parmegiana/ Ovos Mexidos",
+            "Almôndegas de Soja ao Sugo",
+            "Macarrão Alho e Óleo",
+            "Acelga/ Tomate/ Batata ao Alho ",
             "Melancia"
         ],
         "lanche": [
-            "Pão de Hambúrguer",
-            "Hambúrguer",
-            "Hambúrguer, Alface, Tomate",
-            "Canjiquinha",
-            "Espaguete a Bolonhesa",
+            "Pão Doce",
+            "Muçarela e Presunto Fatiado",
+            "Canja de Galinha",
+            "Espaguete ao Alho",
             "Melancia"
         ]
     },
     "2": {
         "almoco": [
-            "Feijoada/Omelete de Queijo",
-            "Feijoada Vegana",
-            "Farofa Dourada",
-            "Couve/ Vinagrete/Cenoura Vick",
+            "Bife Suíno Acebolado/ Ovos Escalfados",
+            "Feijão Branco ao Molho",
+            "Creme Misto",
+            "Mix de Folhas/ Cenoura Ralada/ Abobrinha",
             "Laranja"
         ],
         "jantar": [
-            "Almôndegas à Parmegiana/ Ovos Cozidos",
-            "Arroz c/ Jaca e Lentilha",
-            "Macarrão Alho e Óleo",
-            "Alface/ Tabule/ Berinjela Temperada",
-            "Goiabada"
+            "Espeto de Frango Empanado/ Tortilha de Tomate",
+            "Quibe Vegano",
+            "Canjiquinha",
+            "Alface/ Nabo/ Chuchu c/ Baroa",
+            "Gelatina"
         ],
         "lanche": [
-            "Pão de Francês",
-            "Muçarela e Presunto (Fatiado)",
-            "Sopa de Caldinho de Feijão",
-            "Macarrão ao Alho",
-            "Goiabada"
+            "Pão de Hambúrguer",
+            "Hambúrguer",
+            "Alface, Tomate",
+            "Canjiquinha",
+            "Parafuso a Carbonara",
+            "Gelatina"
         ]
     },
     "3": {
