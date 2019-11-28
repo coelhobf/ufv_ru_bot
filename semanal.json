@@ -72,69 +72,69 @@
     },
     "3": {
         "almoco": [
-            "Strogonoff de Frango/ Ovos Mexidos",
+            "Strogonoff de Frango/ Ovos Assados",
             "Strogonoff Vegano",
             "Batata Palha",
-            "Alface/ Abobrinha Ralada/ Salada de Grãos",
-            "Banana"
+            "Alface/Tomate / Moranga",
+            "Banana / Doce de Leite"
         ],
         "jantar": [
-            "Cubos Bovinos c/ Mandioca/Ovos Assados",
-            "Ratatule",
-            "Polenta",
-            "Mix de Folhas/ Tomate/ Batata c/ Chuchu (Cubinhos)",
-            "Pudim de Baunilha c/ Calda"
+            "Lombo Assado ao M. Madeira/ Ovos Cozidos",
+            "Mix de Grãos",
+            "Virado de Couve",
+            "Acelga/Picles de Pepino/ Batata Doce",
+            "Maçã"
         ],
         "lanche": [
             "Pão Doce",
             "Salsicha ao Molho",
-            "Batata Palha",
-            "Sopa de Legumes",
-            "Espaguete ao Sugo",
-            "Pudim de Baunilha c/ Calda"
+            "Bambá de Couve",
+            "Espaguete a Bolonhesa",
+            "Maçã"
         ]
     },
     "4": {
         "almoco": [
-            "Frango Assado/ Omelete de Legumes",
-            "Grão de Bico ao Molho",
-            "Creme Dourado",
-            "Mix de Folhas/ Tomate c/ Pepino/ Beterraba",
-            "Melancia"
+            "Carne Bovina c/ Legumes/ Omelete de Queijo",
+            "Purê de Ervilha",
+            "Mandioca Ensopada",
+            "Alface c/ Almeirão/ Beterraba Ralada/ Chuchu",
+            "Gelatina"
         ],
         "jantar": [
-            "Peixe no Fubá/ Tortilha de Tomate",
-            "Lentilha c/ Legumes",
-            "Abobrinha Refogada",
-            "Alface/ Nabo/ Batata Doce",
-            "Gelatina"
+            "Peixe no Fubá/ Ovos Mexidos",
+            "Escondidinho de Soja",
+            "Creme de Milho",
+            "Mix de Folhas/ Nabo c/ Pimentão/ Maionese",
+            "Melancia"
         ],
         "lanche": [
-            "Pão Francês c/ Linguiça",
-            "Bambá de Couve",
-            "Parafuso Colorido",
-            "Gelatina"
+            "Pão c/ Linguiça Assada",
+            "Caldo de Feijão",
+            "Parafuso ao Sugo",
+            "Melancia"
         ]
     },
     "5": {
         "almoco": [
-            "Bife Suíno Acebolado/ Ovos Cozidos",
-            "Feijão Branco ao Molho",
-            "Creme de Inhame",
-            "Alface/Pepino c/ Tomate/ Cenoura Cozida",
-            "Pudim de Chocolate c/ Calda"
+            "Strogonoff de Frango/ Ovos Assados",
+            "Strogonoff Vegano",
+            "Batata Palha",
+            "Alface/Tomate / Moranga",
+            "Banana / Doce de Leite"
         ],
         "jantar": [
-            "Lagarto ao M. Roti/Ovos Escalfados",
-            "Lasanha de Berinjela",
-            "Batata Sauteé",
-            "Repolho c/ Alface/ Tomate/ Moranga",
+            "Lombo Assado ao M. Madeira/ Ovos Cozidos",
+            "Mix de Grãos",
+            "Virado de Couve",
+            "Acelga/Picles de Pepino/ Batata Doce",
             "Maçã"
         ],
         "lanche": [
-            "Pão c/ Iscas de Frango Grelhado",
-            "Espaguete ao Pomodoro",
-            "Sopa de Batata",
+            "Pão Doce",
+            "Salsicha ao Molho",
+            "Bambá de Couve",
+            "Espaguete a Bolonhesa",
             "Maçã"
         ]
     },
