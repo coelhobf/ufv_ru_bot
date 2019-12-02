@@ -1,73 +1,71 @@
 {
     "0": {
         "almoco": [
-            "Carne Moída à Primavera ou Ovos Cozidos",
-            "Couve Flor à Bolonhesa",
-            "Repolho Búlgaro",
-            "Alface, Beterraba, Moranga",
-            "Banana"
+            "Almôndegas a Parmegiana / Ovos Assados",
+            "Feijão Branco à Primavera",
+            "Creme de Queijo",
+            "Alface / Cenoura Ralada / Berinjela Temperada",
+            "Laranja"
         ],
         "jantar": [
-            "Espeto de Frango Empanado ou Omelete de Queijo",
-            "Tomate Recheado",
-            "Creme de Ervilha",
-            "Mix de Folhas, Cenoura, Berinjela",
-            "Laranja"
+            "Bife Suíno Grelhado/ Ovos Mexidos",
+            "Mix de Grão com Legumes",
+            "Canjiquinha",
+            "Alface / Nabo c/ Cheiro Verde / Batata Doce",
+            "Maçã"
         ],
         "lanche": [
-            "Pão Doce",
-            "Molho de Salsicha com Milho",
-            "Batata Palha",
-            "Sopa de Ervilha",
-            "Macarrão Alho e Óleo e Bacon",
-            "Laranja"
+            "Pão Francês c/ Calabresa",
+            "Canjiquinha",
+            "Penne ao Pomodoro",
+            "Maçã"
         ]
     },
     "1": {
         "almoco": [
-            "Frango Assado/ Ovos Cozidos",
-            "Arroz c/ Jaca e Lentilha",
-            "Farofa de Frutas",
-            "Alface/ Pepino/ Beterraba ",
-            "Curau c/ Canela"
+            "Feijoada / Ovos Escalfados",
+            "Feijoada Vegana",
+            "Farofa Dourada",
+            "Alface / Beterraba Ralada / Chuchu",
+            "Gelatina"
         ],
         "jantar": [
-            "Almôndegas à Parmegiana/ Ovos Mexidos",
-            "Almôndegas de Soja ao Sugo",
-            "Macarrão Alho e Óleo",
-            "Acelga/ Tomate/ Batata ao Alho ",
+            "Cubos Bovinos com Legumes / Tortilha de Tomate",
+            "Torta de Couve Flor",
+            "Mandioca Ensopada",
+            "Mix de Folha / Pepino com Tomate / Moranga",
             "Melancia"
         ],
         "lanche": [
             "Pão Doce",
             "Muçarela e Presunto Fatiado",
-            "Canja de Galinha",
+            "Mandioca Ensopada",
             "Espaguete ao Alho",
             "Melancia"
         ]
     },
     "2": {
         "almoco": [
-            "Bife Suíno Acebolado/ Ovos Escalfados",
-            "Feijão Branco ao Molho",
-            "Creme Misto",
-            "Mix de Folhas/ Cenoura Ralada/ Abobrinha",
-            "Laranja"
+            "Bife de Pernil Acebolado/ Omelete de Queijo",
+            "Brócolis com Lentilha",
+            "Macarrão ao Sugo",
+            "Repolho/ Vinagrete/ Batata ao Alho",
+            "Banana"
         ],
         "jantar": [
-            "Espeto de Frango Empanado/ Tortilha de Tomate",
-            "Quibe Vegano",
-            "Canjiquinha",
-            "Alface/ Nabo/ Chuchu c/ Baroa",
-            "Gelatina"
+            "Espetinho Empanado/ Ovos Assado",
+            "Grão de Bico com Legumes",
+            "Creme de Ervilha",
+            "Acelga com Almeirão/ Tomate/ Abobrinha Cubinhos com Milho",
+            "Goiaba"
         ],
         "lanche": [
             "Pão de Hambúrguer",
             "Hambúrguer",
             "Alface, Tomate",
-            "Canjiquinha",
+            "Creme de Ervilha",
             "Parafuso a Carbonara",
-            "Gelatina"
+            "Goiaba"
         ]
     },
     "3": {
